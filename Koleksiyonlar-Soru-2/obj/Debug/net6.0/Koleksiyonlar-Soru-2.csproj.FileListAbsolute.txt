@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/bin/Debug/net6.0/Koleksiyonlar-Soru-2
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/bin/Debug/net6.0/Koleksiyonlar-Soru-2.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/bin/Debug/net6.0/Koleksiyonlar-Soru-2.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/bin/Debug/net6.0/Koleksiyonlar-Soru-2.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/bin/Debug/net6.0/ref/Koleksiyonlar-Soru-2.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/bin/Debug/net6.0/Koleksiyonlar-Soru-2.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/ref/Koleksiyonlar-Soru-2.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/odev2/Koleksiyonlar-Soru-2/obj/Debug/net6.0/Koleksiyonlar-Soru-2.genruntimeconfig.cache
